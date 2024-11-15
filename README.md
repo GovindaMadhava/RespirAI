@@ -6,4 +6,6 @@ The multi-modal model made use of Decision Fusion (soft voting), ANN and Image &
 
 The test set data (both image and audio) was evaluated by multiple practicing doctors who also compared the classification and results of our model and **98%** of the cases were rightly diagnosed by the model. This value is much higher confirming our alternate hypothesis that a multi-modal approach out-performs existing singular modal approaches.
 
+The paper titled "Multi-modal Classification of Lung Diseases using Deep Learning" is in the process of being published at ICASSP and IEEE 2025 conferences.
+
 Skills: Audio Signal processing, Machine Learning, Multi-Modal approach, Transfer Learning
